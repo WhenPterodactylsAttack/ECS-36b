@@ -1,0 +1,16 @@
+Airplane 1 maximum load 10
+Airplane 2 maximum load 10
+Airplane 3 maximum load 10
+Airplane 4 maximum load 10
+Airplane 5 maximum load 32
+Airplane 6 maximum load 32
+Airplane 7 maximum load 40
+Summary:
+deallocating airplane 1
+deallocating airplane 2
+deallocating airplane 3
+deallocating airplane 4
+deallocating airplane 5
+deallocating airplane 6
+deallocating airplane 7
+Assignment complete
